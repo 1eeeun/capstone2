@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="indooratlas_api_key" translatable="false">api-key-not-set</string>
+    <string name="indooratlas_api_secret" translatable="false">api-secret-not-set</string>
+
+</resources>
