@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "815749497971",
+    "firebase_url": "https://smart-cart-1541235849045.firebaseio.com",
+    "project_id": "smart-cart-1541235849045",
+    "storage_bucket": "smart-cart-1541235849045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815749497971:android:72b64abff500c439",
+        "android_client_info": {
+          "package_name": "com.example.se_02.smartcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815749497971-7m4kogqfrokjv6g1lk7rm5p93hran3o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6fmxsR4I2kJDv7g6uPSvENqmOHoQ5vVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815749497971:android:0117656f24c67fa0",
+        "android_client_info": {
+          "package_name": "com.example.se_02.smartcart.Firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815749497971-7m4kogqfrokjv6g1lk7rm5p93hran3o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6fmxsR4I2kJDv7g6uPSvENqmOHoQ5vVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

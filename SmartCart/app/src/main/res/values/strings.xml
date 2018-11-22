@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ktwTest</string>
+    <string name="none_paired">NONE PAIRED</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <color name="bg">#C0C0C0</color>
+</resources>
